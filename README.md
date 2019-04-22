@@ -21,4 +21,6 @@ You need to have Gradle (5.4) installed or to use the provided wrapper.
 You also need to have the Kotlin compiler installed (e.g., 1.3.30).
 Refer to the [official Kotlin documentation](https://kotlinlang.org/docs/tutorials/command-line.html) for details.
 
+If you are using Windows and do not have Gradle install nor Kotlinc, simply type ```gradle``` from the command line.
+
 Alternatively, you can open the project using the [IntelliJ IDE](https://www.jetbrains.com/idea/).
